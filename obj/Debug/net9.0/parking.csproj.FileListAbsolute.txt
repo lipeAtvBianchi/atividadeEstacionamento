@@ -1,0 +1,14 @@
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\bin\Debug\net9.0\parking.exe
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\bin\Debug\net9.0\parking.deps.json
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\bin\Debug\net9.0\parking.runtimeconfig.json
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\bin\Debug\net9.0\parking.dll
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\bin\Debug\net9.0\parking.pdb
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\obj\Debug\net9.0\parking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\obj\Debug\net9.0\parking.AssemblyInfoInputs.cache
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\obj\Debug\net9.0\parking.AssemblyInfo.cs
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\obj\Debug\net9.0\parking.csproj.CoreCompileInputs.cache
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\obj\Debug\net9.0\parking.dll
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\obj\Debug\net9.0\refint\parking.dll
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\obj\Debug\net9.0\parking.pdb
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\obj\Debug\net9.0\parking.genruntimeconfig.cache
+C:\Users\felipe\OneDrive\Área de Trabalho\C#\estacionamento\obj\Debug\net9.0\ref\parking.dll
